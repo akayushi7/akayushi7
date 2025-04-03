@@ -1,8 +1,5 @@
 ## Hi there 👋 My name is Akrity Ayushi and I am a Software Developer, from India!
 
-### 📊 My GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=akayushi7&show_icons=true&theme=dark)
-
 ### 🚀 Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akayushi7&layout=compact&theme=dark)
 
